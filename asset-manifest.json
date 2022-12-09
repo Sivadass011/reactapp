@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09bb833c.css",
+    "main.js": "/static/js/main.6dd338cc.js",
+    "static/js/787.0e6dc9a4.chunk.js": "/static/js/787.0e6dc9a4.chunk.js",
+    "static/media/open-eye.png": "/static/media/open-eye.9bb6791e5941dd4df699.png",
+    "static/media/minionball.jpg": "/static/media/minionball.44653a742aee2f7f34b4.jpg",
+    "index.html": "/index.html",
+    "main.09bb833c.css.map": "/static/css/main.09bb833c.css.map",
+    "main.6dd338cc.js.map": "/static/js/main.6dd338cc.js.map",
+    "787.0e6dc9a4.chunk.js.map": "/static/js/787.0e6dc9a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09bb833c.css",
+    "static/js/main.6dd338cc.js"
+  ]
+}
